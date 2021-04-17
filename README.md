@@ -1,6 +1,6 @@
 # note-taker
 
-[screenshot of home page](https://github.com/xxelegyxx/note-taker/blob/main/Assets/Screenshot%20(57).png)
+![screenshot of home page](https://github.com/xxelegyxx/note-taker/blob/main/Assets/Screenshot%20(57).png)
 
 ## :newspaper: Description 
 The following files contain the assets necessary to make a list of notes and save them on a server.
