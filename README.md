@@ -13,6 +13,8 @@ The following files contain the assets necessary to make a list of notes and sav
 * [License] (#License)
 
 ## 💻 Installation  
+
+User should run npm i to install package.json
   
 `npm init`
   
